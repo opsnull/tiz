@@ -1,0 +1,9 @@
+# options
+reload   10s
+reverse  true
+
+# bypass addresses
+127.0.0.1
+172.10.0.0/16
+localhost
+*.360.cn
